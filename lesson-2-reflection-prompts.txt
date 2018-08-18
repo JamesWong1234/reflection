@@ -12,7 +12,7 @@ The repository is the choice for commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-Add one word
+Only when the change in the working area has a logical meaning, I will sync it into staging area.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
